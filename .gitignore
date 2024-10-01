@@ -1,0 +1,8 @@
+Readme.md
+
+logs/
+
+*.txt
+
+/logs/*.txt
+
