@@ -1,5 +1,9 @@
-div {
-    font-size: 32px;
-    color: blueviolet;
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+   background-color: aquamarine;
   }
   
